@@ -1,3 +1,6 @@
+this is my video link for week1 homework
+https://youtu.be/58gByy7qZts
+
 # lab1
 
 ## project 1
@@ -116,12 +119,22 @@ delay(1);
 # lab2
 This is my Tinkercad link
 https://www.tinkercad.com/things/7oPvmV7zv1R-frantic-bombul-fyyran/editel?sharecode=bMdHo7DMjMO2QcpXRSo4g2IF2GBg5O6QFsZuSLf7Jvk
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/W1L2.jpeg" width="300px" height="300px" alt="lab00-01"/>
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/W1L2p1.png" width="300px" height="300px" alt="lab00-01"/>
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/W1L2p2.png" width="300px" height="300px" alt="lab00-01"/>
 
-this is my video link
-https://github.com/RunqiZhao21031188/1/blob/main/W1L1p2.mp4
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/W1L1p2.mp4" width="300px" height="300px" alt="lab00-01"/>
+## Background: 
+In the film Venom, there is a parasitic creature named Venom. People who are parasitised by it will die rapidly, although they have the appearance of regular humans. This parasite is therefore extremely dangerous to society.
+
+## Bio description: 
+Venom assumes a liquid state when there is no host, but it enhances the host's physical and restorative abilities when parasitised, and can communicate with them telepathically. Venom is capable of picking its host and will quickly consume the host's body when it encounters an unsuitable one, causing the victim's death. It can also extend its tentacles from the host's body and deliver a fatal blow to the human.
+
+## Vulnerabilities: 
+Fear of fire and sound waves
+
+This is an anti-venom protection device for buildings. When a creature infested with venom comes within range of the ultrasonic distance sensor, it automatically triggers a beeping device that emits a venom-fearing sound wave to repel them, and led lights are illuminated to alert the user.
+
+
 
 coding
 // C++ code
