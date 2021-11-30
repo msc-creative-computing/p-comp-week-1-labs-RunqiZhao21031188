@@ -2,10 +2,7 @@
 
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
 
-##
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
 
-# lab1
 this is my video link
 https://github.com/RunqiZhao21031188/1/blob/main/1634735577519257.mp4
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
@@ -13,6 +10,7 @@ https://github.com/RunqiZhao21031188/1/blob/main/1634735577519257.mp4
 # lab2
 
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
+
 # lab3
 
 ## a
