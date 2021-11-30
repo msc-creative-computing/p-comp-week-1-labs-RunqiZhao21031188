@@ -1,0 +1,38 @@
+# lab1
+
+## project 1
+
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/W1L1p1.jpeg" width="300px" height="300px" alt="lab00-01"/>
+
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/W1L1p1.2.jpeg" height="300px" alt="lab00-01"/>
+
+this is my video link
+https://github.com/RunqiZhao21031188/1/blob/main/W1L1P1.mp4
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/W1L1P1.mp4" width="300px" height="300px" alt="lab00-01"/>
+
+
+## project 2
+this is my video link
+https://github.com/RunqiZhao21031188/1/blob/main/1634735577519257.mp4
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
+
+# lab2
+
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
+# lab3
+
+## a
+
+those are my video links
+
+1.https://github.com/RunqiZhao21031188/1/blob/main/1634726670238365.mp4
+2.https://github.com/RunqiZhao21031188/1/blob/main/1634726675698172.mp4
+
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/891634726670_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/851634722916_.pic.jpg" width="300px" height="300px" alt="lab00-01"/>
+
+## b
+
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/911634726682_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
+
+# lab4
