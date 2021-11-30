@@ -1,0 +1,52 @@
+// C++ code
+//
+int led=8;
+int t=9;
+int e=10;
+int gnd=11;
+int voice=12;
+  
+float cm;
+float temp;
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(t,OUTPUT);
+  pinMode(e,INPUT);
+  pinMode(led,OUTPUT);
+  pinMode(voice,OUTPUT);
+  
+}
+
+void loop()
+{
+  digitalWrite(t, LOW);
+  delay(20); // Wait for 1000 millisecond(s)
+  digitalWrite(t, HIGH);
+  delay(20); // Wait for 1000 millisecond(s)
+  digitalWrite(t, LOW);
+  
+ 
+  temp = float(pulseIn(e,HIGH));
+  
+  cm = (temp * 17 )/1000;  //(temp * (34000/1000000))/2
+  Serial.print("Echo =");
+  Serial.print(temp);
+  Serial.print(" | | Distance = ");
+  Serial.print(cm);
+  Serial.println("cm");
+  if (cm < 200)
+  {
+    digitalWrite(led,LOW);
+     digitalWrite(voice,LOW);
+     
+  }
+  else{
+     
+     digitalWrite(led,HIGH);
+     digitalWrite(voice,HIGH);
+  }
+  delay(100);
+  
+}
