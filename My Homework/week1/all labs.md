@@ -114,22 +114,63 @@ digitalWrite(4, HIGH);
 delay(1);
 }
 # lab2
-
+This is my Tinkercad link
+https://www.tinkercad.com/things/7oPvmV7zv1R-frantic-bombul-fyyran/editel?sharecode=bMdHo7DMjMO2QcpXRSo4g2IF2GBg5O6QFsZuSLf7Jvk
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
-# lab3
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
 
-## a
+this is my video link
+https://github.com/RunqiZhao21031188/1/blob/main/W1L1p2.mp4
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/W1L1p2.mp4" width="300px" height="300px" alt="lab00-01"/>
 
-those are my video links
+coding
+// C++ code
+//
+int led=8;
+int t=9;
+int e=10;
+int gnd=11;
+int voice=12;
+  
+float cm;
+float temp;
 
-1.https://github.com/RunqiZhao21031188/1/blob/main/1634726670238365.mp4
-2.https://github.com/RunqiZhao21031188/1/blob/main/1634726675698172.mp4
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(t,OUTPUT);
+  pinMode(e,INPUT);
+  pinMode(led,OUTPUT);
+  pinMode(voice,OUTPUT);
+  
+}
 
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/891634726670_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/851634722916_.pic.jpg" width="300px" height="300px" alt="lab00-01"/>
-
-## b
-
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/911634726682_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
-
-# lab4
+void loop()
+{
+  digitalWrite(t, LOW);
+  delay(20); // Wait for 1000 millisecond(s)
+  digitalWrite(t, HIGH);
+  delay(20); // Wait for 1000 millisecond(s)
+  digitalWrite(t, LOW);
+  
+ 
+  temp = float(pulseIn(e,HIGH));
+  
+  cm = (temp * 17 )/1000;  //(temp * (34000/1000000))/2
+  Serial.print("Echo =");
+  Serial.print(temp);
+  Serial.print(" | | Distance = ");
+  Serial.print(cm);
+  Serial.println("cm");
+  if (cm < 200)
+  {
+     digitalWrite(led,HIGH);
+     digitalWrite(voice,HIGH);
+  }
+  else{
+     digitalWrite(led,LOW);
+     digitalWrite(voice,LOW);
+  }
+  delay(100);
+  
+}
