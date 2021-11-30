@@ -1,11 +1,11 @@
-# lab0
+# lab1
 
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
 
 
 this is my video link
 https://github.com/RunqiZhao21031188/1/blob/main/1634735577519257.mp4
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/931634727743_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/1634735577519257.mp4" width="300px" height="300px" alt="lab00-01"/>
 
 # lab2
 
@@ -28,3 +28,4 @@ those are my video links
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/911634726682_.pic_hd.jpg" width="300px" height="300px" alt="lab00-01"/>
 
 # lab4
+
