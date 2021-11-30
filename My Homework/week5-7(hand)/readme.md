@@ -1,3 +1,7 @@
+this is the "hand" video , please check!
+https://youtu.be/0wmeC1BM5JY
+![image](https://user-images.githubusercontent.com/91619237/144046571-79d0f5ad-7e99-42df-8aa1-2bf3a07908a0.png)
+
 In the first lesson, the form of hands we made are more dominated by our consciousness. Our consciousness—bending fingers—detecting changes in the circuit—turns into electrical signals. It focuses more on the interactive relationship between humans and machinery, that is, machinery assists human actions. As the subject of action, people are like operating equipment. In this lesson, the “hand” is more like a puppet without emotion, which makes me feel uncomfortable. Our hand mechanically transfers the motion to the prosthetic hand through the connection of the rope, and the prosthetic hand imitates the motion of our hand without emotion and transmits the motion to the circuit. This kind of imitation seems very simple, but it can never imitate the actions of people themselves. And it is the prosthetic hand that controls the circuit, which makes me feel that I am in a position that seems to be active but passive. Imagine that the current artificial intelligence is like this artificial hand, imitating our actions mechanically and without emotion, collecting our information, and then performing various operations on our behalf.
 
 Thoughts
