@@ -38,12 +38,13 @@ those are my video links
 
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/W3L4.3.jpeg" width="300px" height="300px" alt="lab00-01"/>
 
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/W3L4.10.MOV" width="300px" height="300px" alt="lab00-01"/>
-<img src="<img src="https://github.com/RunqiZhao21031188/1/blob/main/W3L4.2.jpeg " width="300px" height="300px" alt="lab00-01"/>
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/W3L4.1.jpeg" width="300px" height="300px" alt="lab00-01"/>
+<img src="<img src="https://github.com/RunqiZhao21031188/1/blob/main/W1L2p2.png" width="300px" height="300px" alt="lab00-01"/>
 " width="300px" height="300px" alt="lab00-01"/>
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/W3L4.2.jpeg" height="300px" alt="lab00-01"/>
+<img src="https://github.com/RunqiZhao21031188/1/blob/main/W1L2p1.png" height="300px" alt="lab00-01"/>
 
 those are my video links
+
 
 1.https://github.com/RunqiZhao21031188/1/blob/main/video.mov
 2.https://github.com/RunqiZhao21031188/1/blob/main/W3L4.9.MOV
