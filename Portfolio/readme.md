@@ -1,6 +1,9 @@
 
 # final project--Be Nice
 
+youtube link
+https://youtu.be/9WfamLFYHkw
+
 ## inspiration
 I saw a news story on TV a few weeks ago about guide dogs and the training they receive. 
 They need to resist the temptation of food and playing with other dogs. They are retired in 
